@@ -23,6 +23,8 @@ This is the typical workflow when working with repositories but not all encompas
 4. To commit your changes, you may use `git commit` OR `git commit -m "Your commit message"`
 5. When commited, you will then run `git push`
 
+## JQUERY SUCKS :)
+
 ### More Complex Git Flow
 
 These commands will be more widely used during big projects or when you enter the workforce. These are very important
